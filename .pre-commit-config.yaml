@@ -9,7 +9,7 @@ repos:
     hooks:
     -   id: black-jupyter
         args:
-            - --line-length=160
+            - --line-length=120
 -   repo: https://github.com/kynan/nbstripout
     rev: 0.5.0
     hooks:
