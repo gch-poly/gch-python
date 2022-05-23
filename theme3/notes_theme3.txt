@@ -5,19 +5,19 @@ ex1:
 - légende, grille, titres, axes
 - utilisation de couleurs, marqueurs
 
-ex2: 
+ex2:
 - graphique à barres (hist)
 - pie chart
 
-ex3: 
+ex3:
 - subplots
 - mélange de types de graphiques, ex: scatter + courbe
 - statistiques ?
 
-ex4: 
+ex4:
 - colormap (2D)
 
-ex5: 
+ex5:
 - 3D
 
 animation ?
