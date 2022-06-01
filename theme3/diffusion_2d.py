@@ -20,6 +20,10 @@ u = u0.copy()
 
 u0[-1, :] = Thot
 
+"""
+Testing
+"""
+
 
 def do_timestep(u0, u):
     # Propagate with forward-difference in time, central-difference in space
