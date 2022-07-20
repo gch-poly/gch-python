@@ -1,6 +1,0 @@
-{
-    "LiteBuildConfig": {
-        "contents": ["content"],
-        "no_unused_shared_packages": true
-    }
-}
