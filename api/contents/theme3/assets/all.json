@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-20T15:48:41.469752Z",
+      "format": null,
+      "last_modified": "2022-07-20T15:48:11.294291Z",
+      "mimetype": "application/json",
+      "name": "production.json",
+      "path": "theme3/assets/production.json",
+      "size": 3546,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-20T15:48:41.465752Z",
+      "format": null,
+      "last_modified": "2022-07-20T15:48:11.290292Z",
+      "mimetype": null,
+      "name": "diffusion.npy",
+      "path": "theme3/assets/diffusion.npy",
+      "size": 80128,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-20T15:48:41.465752Z",
+      "format": null,
+      "last_modified": "2022-07-20T15:48:11.290292Z",
+      "mimetype": "application/json",
+      "name": "demande.json",
+      "path": "theme3/assets/demande.json",
+      "size": 6674,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-20T15:48:41.465752Z",
+      "format": null,
+      "last_modified": "2022-07-20T15:48:11.294291Z",
+      "mimetype": "image/png",
+      "name": "melangeur.png",
+      "path": "theme3/assets/melangeur.png",
+      "size": 72830,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-20T15:48:41.469752Z",
+      "format": null,
+      "last_modified": "2022-07-20T15:48:11.294291Z",
+      "mimetype": "application/json",
+      "name": "stream_nitsche.json",
+      "path": "theme3/assets/stream_nitsche.json",
+      "size": 598078,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-20T15:48:41.465752Z",
+      "format": null,
+      "last_modified": "2022-07-20T15:48:11.290292Z",
+      "mimetype": "image/png",
+      "name": "anatomy_of_figure.png",
+      "path": "theme3/assets/anatomy_of_figure.png",
+      "size": 93976,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-20T15:48:41.469752Z",
+  "format": "json",
+  "last_modified": "2022-07-20T15:48:41.469752Z",
+  "mimetype": null,
+  "name": "assets",
+  "path": "theme3/assets",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

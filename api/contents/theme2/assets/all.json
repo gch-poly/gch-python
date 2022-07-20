@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-20T15:48:41.465752Z",
+      "format": null,
+      "last_modified": "2022-07-20T15:48:11.290292Z",
+      "mimetype": "image/png",
+      "name": "lenna_200.png",
+      "path": "theme2/assets/lenna_200.png",
+      "size": 47096,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-20T15:48:41.461752Z",
+      "format": null,
+      "last_modified": "2022-07-20T15:48:11.290292Z",
+      "mimetype": "image/svg+xml",
+      "name": "ex3_2.svg",
+      "path": "theme2/assets/ex3_2.svg",
+      "size": 191474,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-20T15:48:41.461752Z",
+      "format": null,
+      "last_modified": "2022-07-20T15:48:11.290292Z",
+      "mimetype": "image/svg+xml",
+      "name": "ex3_1.svg",
+      "path": "theme2/assets/ex3_1.svg",
+      "size": 33589,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-20T15:48:41.461752Z",
+      "format": null,
+      "last_modified": "2022-07-20T15:48:11.290292Z",
+      "mimetype": "image/svg+xml",
+      "name": "ex3_0.svg",
+      "path": "theme2/assets/ex3_0.svg",
+      "size": 40732,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-20T15:48:41.461752Z",
+      "format": null,
+      "last_modified": "2022-07-20T15:48:11.290292Z",
+      "mimetype": "image/png",
+      "name": "blur_kernel.png",
+      "path": "theme2/assets/blur_kernel.png",
+      "size": 60211,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-20T15:48:41.465752Z",
+  "format": "json",
+  "last_modified": "2022-07-20T15:48:41.465752Z",
+  "mimetype": null,
+  "name": "assets",
+  "path": "theme2/assets",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,19 @@
+ex 1:
+
+montrer manipulation de vecteurs
+- indexations (avec tranches) + operations vectorielles
+- masques binaires a[(a>2) & (a<5)]
+exemple itératif pr montrer comment remplacer les valeurs dans le array plutot que d'en crééer un nouveau
+
+ex 2:
+- montrer création de matrices
+- indexations + calculs (somme, mult, prod scal., prod vec.)
+- reshape, nonzero, where, flip, flatten
+
+ex3:
+
+- np.solve
+- fonctions plus avancées
+- np.hstack
+- discretisation spatiale
+- exemple 2D style smith hutton
