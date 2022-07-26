@@ -1,6 +1,6 @@
 # Projet FAPS Python
 
-[![ci-badge]][ci] [![lite-badge]][lite]
+[![ok]][ci] [![lite-badge]][lite]
 
 [ci-badge]: https://github.com/gch-faps/faps-python/workflows/Build/badge.svg
 [ci]: https://github.com/jupyterlite/jupyterlite/actions/workflows/deploy.yml/badge.svg?branch=main
