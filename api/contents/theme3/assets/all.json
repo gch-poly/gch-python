@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-26T23:39:08.272880Z",
+      "created": "2022-07-26T23:41:31.683840Z",
       "format": null,
-      "last_modified": "2022-07-26T23:38:40.836480Z",
+      "last_modified": "2022-07-26T23:41:06.120192Z",
       "mimetype": "application/json",
       "name": "production.json",
       "path": "theme3/assets/production.json",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-26T23:39:08.272880Z",
+      "created": "2022-07-26T23:41:31.683840Z",
       "format": null,
-      "last_modified": "2022-07-26T23:38:40.836480Z",
+      "last_modified": "2022-07-26T23:41:06.120192Z",
       "mimetype": null,
       "name": "diffusion.npy",
       "path": "theme3/assets/diffusion.npy",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-26T23:39:08.272880Z",
+      "created": "2022-07-26T23:41:31.683840Z",
       "format": null,
-      "last_modified": "2022-07-26T23:38:40.832479Z",
+      "last_modified": "2022-07-26T23:41:06.120192Z",
       "mimetype": "application/json",
       "name": "demande.json",
       "path": "theme3/assets/demande.json",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-26T23:39:08.272880Z",
+      "created": "2022-07-26T23:41:31.683840Z",
       "format": null,
-      "last_modified": "2022-07-26T23:38:40.836480Z",
+      "last_modified": "2022-07-26T23:41:06.120192Z",
       "mimetype": "image/png",
       "name": "melangeur.png",
       "path": "theme3/assets/melangeur.png",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-26T23:39:08.272880Z",
+      "created": "2022-07-26T23:41:31.683840Z",
       "format": null,
-      "last_modified": "2022-07-26T23:38:40.836480Z",
+      "last_modified": "2022-07-26T23:41:06.120192Z",
       "mimetype": "application/json",
       "name": "stream_nitsche.json",
       "path": "theme3/assets/stream_nitsche.json",
@@ -62,9 +62,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-26T23:39:08.268880Z",
+      "created": "2022-07-26T23:41:31.683840Z",
       "format": null,
-      "last_modified": "2022-07-26T23:38:40.832479Z",
+      "last_modified": "2022-07-26T23:41:06.120192Z",
       "mimetype": "image/png",
       "name": "anatomy_of_figure.png",
       "path": "theme3/assets/anatomy_of_figure.png",
@@ -73,9 +73,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-26T23:39:08.272880Z",
+  "created": "2022-07-26T23:41:31.683840Z",
   "format": "json",
-  "last_modified": "2022-07-26T23:39:08.272880Z",
+  "last_modified": "2022-07-26T23:41:31.683840Z",
   "mimetype": null,
   "name": "assets",
   "path": "theme3/assets",
