@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-27T13:48:27.249391Z",
+      "format": null,
+      "last_modified": "2022-07-27T13:47:59.213452Z",
+      "mimetype": "application/json",
+      "name": "production.json",
+      "path": "theme3/data/production.json",
+      "size": 3546,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-27T13:48:27.249391Z",
+      "format": null,
+      "last_modified": "2022-07-27T13:47:59.213452Z",
+      "mimetype": null,
+      "name": "diffusion.npy",
+      "path": "theme3/data/diffusion.npy",
+      "size": 80128,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-27T13:48:27.249391Z",
+      "format": null,
+      "last_modified": "2022-07-27T13:47:59.213452Z",
+      "mimetype": "application/json",
+      "name": "demande.json",
+      "path": "theme3/data/demande.json",
+      "size": 6674,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-27T13:48:27.249391Z",
+      "format": null,
+      "last_modified": "2022-07-27T13:47:59.217452Z",
+      "mimetype": "application/json",
+      "name": "stream_nitsche.json",
+      "path": "theme3/data/stream_nitsche.json",
+      "size": 598078,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-27T13:48:27.249391Z",
+  "format": "json",
+  "last_modified": "2022-07-27T13:48:27.249391Z",
+  "mimetype": null,
+  "name": "data",
+  "path": "theme3/data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
