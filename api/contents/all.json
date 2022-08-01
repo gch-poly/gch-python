@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-28T19:01:02.692291Z",
+      "created": "2022-08-01T21:47:54.459578Z",
       "format": null,
-      "last_modified": "2022-07-28T19:01:02.692291Z",
+      "last_modified": "2022-08-01T21:47:54.459578Z",
+      "mimetype": null,
+      "name": "theme5",
+      "path": "theme5",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-01T21:47:54.455578Z",
+      "format": null,
+      "last_modified": "2022-08-01T21:47:54.455578Z",
       "mimetype": null,
       "name": "theme3",
       "path": "theme3",
@@ -14,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-28T19:01:02.696291Z",
+      "created": "2022-08-01T21:47:54.459578Z",
       "format": null,
-      "last_modified": "2022-07-28T19:01:02.696291Z",
+      "last_modified": "2022-08-01T21:47:54.459578Z",
       "mimetype": null,
       "name": "theme4",
       "path": "theme4",
@@ -26,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-28T19:01:02.688291Z",
+      "created": "2022-08-01T21:47:54.451578Z",
       "format": null,
-      "last_modified": "2022-07-28T19:01:02.688291Z",
+      "last_modified": "2022-08-01T21:47:54.451578Z",
       "mimetype": null,
       "name": "theme2",
       "path": "theme2",
@@ -38,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-28T19:01:02.684291Z",
+      "created": "2022-08-01T21:47:54.447578Z",
       "format": null,
-      "last_modified": "2022-07-28T19:01:01.072286Z",
+      "last_modified": "2022-08-01T21:47:52.951591Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -49,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-28T19:01:02.692291Z",
+  "created": "2022-08-01T21:47:54.459578Z",
   "format": "json",
-  "last_modified": "2022-07-28T19:01:02.692291Z",
+  "last_modified": "2022-08-01T21:47:54.459578Z",
   "mimetype": null,
   "name": "",
   "path": "",

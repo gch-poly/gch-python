@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-01T21:47:54.459578Z",
+      "format": null,
+      "last_modified": "2022-08-01T21:47:27.887785Z",
+      "mimetype": "image/png",
+      "name": "mass_spring_damper.png",
+      "path": "theme5/assets/mass_spring_damper.png",
+      "size": 27208,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-01T21:47:54.459578Z",
+  "format": "json",
+  "last_modified": "2022-08-01T21:47:54.459578Z",
+  "mimetype": null,
+  "name": "assets",
+  "path": "theme5/assets",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
