@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-03T16:14:56.034094Z",
+      "created": "2022-08-03T16:15:47.070648Z",
       "format": null,
-      "last_modified": "2022-08-03T16:14:30.252697Z",
+      "last_modified": "2022-08-03T16:15:18.758510Z",
       "mimetype": "image/svg+xml",
       "name": "ex3_2.svg",
       "path": "theme2/assets/ex3_2.svg",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-03T16:14:56.038094Z",
+      "created": "2022-08-03T16:15:47.070648Z",
       "format": null,
-      "last_modified": "2022-08-03T16:14:30.252697Z",
+      "last_modified": "2022-08-03T16:15:18.758510Z",
       "mimetype": "image/png",
       "name": "lenna_150.png",
       "path": "theme2/assets/lenna_150.png",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-03T16:14:56.034094Z",
+      "created": "2022-08-03T16:15:47.070648Z",
       "format": null,
-      "last_modified": "2022-08-03T16:14:30.252697Z",
+      "last_modified": "2022-08-03T16:15:18.754510Z",
       "mimetype": "image/svg+xml",
       "name": "ex3_1.svg",
       "path": "theme2/assets/ex3_1.svg",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-03T16:14:56.034094Z",
+      "created": "2022-08-03T16:15:47.070648Z",
       "format": null,
-      "last_modified": "2022-08-03T16:14:30.252697Z",
+      "last_modified": "2022-08-03T16:15:18.754510Z",
       "mimetype": "image/svg+xml",
       "name": "ex3_0.svg",
       "path": "theme2/assets/ex3_0.svg",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-03T16:14:56.034094Z",
+      "created": "2022-08-03T16:15:47.070648Z",
       "format": null,
-      "last_modified": "2022-08-03T16:14:30.252697Z",
+      "last_modified": "2022-08-03T16:15:18.754510Z",
       "mimetype": "image/png",
       "name": "blur_kernel.png",
       "path": "theme2/assets/blur_kernel.png",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-03T16:14:56.038094Z",
+  "created": "2022-08-03T16:15:47.070648Z",
   "format": "json",
-  "last_modified": "2022-08-03T16:14:56.038094Z",
+  "last_modified": "2022-08-03T16:15:47.070648Z",
   "mimetype": null,
   "name": "assets",
   "path": "theme2/assets",
