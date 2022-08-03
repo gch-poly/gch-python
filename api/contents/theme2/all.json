@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-01T21:47:54.451578Z",
+      "created": "2022-08-03T16:14:56.038094Z",
       "format": null,
-      "last_modified": "2022-08-01T21:47:27.879785Z",
+      "last_modified": "2022-08-03T16:14:30.252697Z",
       "mimetype": null,
       "name": "theme2.ipynb",
       "path": "theme2/theme2.ipynb",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-01T21:47:54.451578Z",
+      "created": "2022-08-03T16:14:56.038094Z",
       "format": null,
-      "last_modified": "2022-08-01T21:47:54.451578Z",
+      "last_modified": "2022-08-03T16:14:56.038094Z",
       "mimetype": null,
       "name": "assets",
       "path": "theme2/assets",
@@ -25,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-01T21:47:54.451578Z",
+  "created": "2022-08-03T16:14:56.038094Z",
   "format": "json",
-  "last_modified": "2022-08-01T21:47:54.451578Z",
+  "last_modified": "2022-08-03T16:14:56.038094Z",
   "mimetype": null,
   "name": "theme2",
   "path": "theme2",
