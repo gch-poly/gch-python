@@ -2,37 +2,25 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-16T20:41:36.841921Z",
-      "format": null,
-      "last_modified": "2022-08-16T20:41:36.841921Z",
-      "mimetype": null,
-      "name": "assets",
-      "path": "theme4/assets",
-      "size": null,
-      "type": "directory",
-      "writable": true
-    },
-    {
-      "content": null,
       "created": "2022-08-16T20:41:36.845921Z",
       "format": null,
       "last_modified": "2022-08-16T20:41:36.845921Z",
       "mimetype": null,
-      "name": "data",
-      "path": "theme4/data",
+      "name": "assets",
+      "path": "theme6/assets",
       "size": null,
       "type": "directory",
       "writable": true
     },
     {
       "content": null,
-      "created": "2022-08-16T20:41:36.845921Z",
+      "created": "2022-08-16T20:41:36.849921Z",
       "format": null,
       "last_modified": "2022-08-16T20:41:11.913908Z",
       "mimetype": null,
-      "name": "theme4.ipynb",
-      "path": "theme4/theme4.ipynb",
-      "size": 37379,
+      "name": "theme6.ipynb",
+      "path": "theme6/theme6.ipynb",
+      "size": 24904,
       "type": "notebook",
       "writable": true
     }
@@ -41,8 +29,8 @@
   "format": "json",
   "last_modified": "2022-08-16T20:41:36.845921Z",
   "mimetype": null,
-  "name": "theme4",
-  "path": "theme4",
+  "name": "theme6",
+  "path": "theme6",
   "size": null,
   "type": "directory",
   "writable": true

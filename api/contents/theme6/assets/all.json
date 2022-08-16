@@ -6,9 +6,9 @@
       "format": null,
       "last_modified": "2022-08-16T20:41:11.913908Z",
       "mimetype": "image/png",
-      "name": "mass_spring_damper.png",
-      "path": "theme5/assets/mass_spring_damper.png",
-      "size": 27208,
+      "name": "filling_tank.png",
+      "path": "theme6/assets/filling_tank.png",
+      "size": 22972,
       "type": "file",
       "writable": true
     }
@@ -18,7 +18,7 @@
   "last_modified": "2022-08-16T20:41:36.845921Z",
   "mimetype": null,
   "name": "assets",
-  "path": "theme5/assets",
+  "path": "theme6/assets",
   "size": null,
   "type": "directory",
   "writable": true
