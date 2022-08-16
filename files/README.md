@@ -1,4 +1,8 @@
-<h1 align="center">Projet FAPS Python</h1>
+<center>
+    <img src="assets/polymtl_logo.png" height=150em/>
+</center>
+
+<h1 align="center">Collection d'exemples de programmation Python en Génie</h1>
 
 [![Build and Deploy](https://github.com/gch-faps/faps-python/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/gch-faps/faps-python/actions/workflows/deploy.yml) [![lite-badge]][lite]
 
