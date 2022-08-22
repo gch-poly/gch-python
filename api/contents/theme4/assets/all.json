@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-17T16:00:24.588083Z",
+      "created": "2022-08-22T22:15:51.787110Z",
       "format": null,
-      "last_modified": "2022-08-17T15:59:53.777547Z",
+      "last_modified": "2022-08-22T22:15:26.786827Z",
       "mimetype": "image/png",
       "name": "reaction_biodiesel.png",
       "path": "theme4/assets/reaction_biodiesel.png",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-17T16:00:24.584082Z",
+      "created": "2022-08-22T22:15:51.787110Z",
       "format": null,
-      "last_modified": "2022-08-17T15:59:53.777547Z",
+      "last_modified": "2022-08-22T22:15:26.786827Z",
       "mimetype": "image/png",
       "name": "chromato_biodiesel.png",
       "path": "theme4/assets/chromato_biodiesel.png",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-17T16:00:24.588083Z",
+      "created": "2022-08-22T22:15:51.787110Z",
       "format": null,
-      "last_modified": "2022-08-17T15:59:53.777547Z",
+      "last_modified": "2022-08-22T22:15:26.786827Z",
       "mimetype": "image/jpeg",
       "name": "iris.jpg",
       "path": "theme4/assets/iris.jpg",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-17T16:00:24.588083Z",
+  "created": "2022-08-22T22:15:51.787110Z",
   "format": "json",
-  "last_modified": "2022-08-17T16:00:24.588083Z",
+  "last_modified": "2022-08-22T22:15:51.787110Z",
   "mimetype": null,
   "name": "assets",
   "path": "theme4/assets",

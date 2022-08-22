@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-22T22:15:51.779110Z",
+      "format": null,
+      "last_modified": "2022-08-22T22:15:51.779110Z",
+      "mimetype": null,
+      "name": "assets",
+      "path": "theme1/assets",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-22T22:15:51.779110Z",
+      "format": null,
+      "last_modified": "2022-08-22T22:15:26.778826Z",
+      "mimetype": null,
+      "name": "theme1.ipynb",
+      "path": "theme1/theme1.ipynb",
+      "size": 11363,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-22T22:15:51.779110Z",
+  "format": "json",
+  "last_modified": "2022-08-22T22:15:51.779110Z",
+  "mimetype": null,
+  "name": "theme1",
+  "path": "theme1",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
