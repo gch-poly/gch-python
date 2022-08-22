@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-22T22:36:11.276653Z",
+      "created": "2022-08-22T23:17:15.005705Z",
       "format": null,
-      "last_modified": "2022-08-22T22:36:11.276653Z",
+      "last_modified": "2022-08-22T23:17:15.005705Z",
       "mimetype": null,
       "name": "assets",
       "path": "theme1/assets",
@@ -14,20 +14,20 @@
     },
     {
       "content": null,
-      "created": "2022-08-22T22:36:11.280653Z",
+      "created": "2022-08-22T23:17:15.005705Z",
       "format": null,
-      "last_modified": "2022-08-22T22:35:39.608644Z",
+      "last_modified": "2022-08-22T23:16:41.219705Z",
       "mimetype": null,
       "name": "theme1.ipynb",
       "path": "theme1/theme1.ipynb",
-      "size": 11363,
+      "size": 11470,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-08-22T22:36:11.280653Z",
+  "created": "2022-08-22T23:17:15.005705Z",
   "format": "json",
-  "last_modified": "2022-08-22T22:36:11.280653Z",
+  "last_modified": "2022-08-22T23:17:15.005705Z",
   "mimetype": null,
   "name": "theme1",
   "path": "theme1",
